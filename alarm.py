@@ -5,4 +5,3 @@ saat=int(input("Lüften saati giriniz"))
     print("Alarm çalıyor, kalk!") 
   else: 
     print("Lütfen bir saat giriniz.") 
-view raw
